@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Chess Playing AI Program](https://github.com/ArjunSr10/Chess-Playing-AI-.git)
 - <b>Full Stack Web App (React, NodeJS, Python (Django), PostgreSQL</b>
-  - [Financial Dashboard](https://github.com/ArjunSr10/Full-Stack-Financial-Dashboard.git) <b>
+  - [Financial Dashboard](https://github.com/ArjunSr10/Full-Stack-Financial-Dashboard.git) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
