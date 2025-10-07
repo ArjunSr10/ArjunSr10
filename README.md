@@ -17,6 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Java</b>
   - [Ad-revenue dashboard analytics tool (group project)](https://github.com/ArjunSr10/Ad-revenue-dashboard.git)
+  - [Tetris inspired game application](https://github.com/ArjunSr10/Tetris-inspired-game)
 
 
 
