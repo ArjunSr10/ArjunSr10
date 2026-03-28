@@ -5,7 +5,8 @@
 - <b>Python</b>
   - [Chess Playing AI Program](https://github.com/ArjunSr10/Chess-Playing-AI-.git)
 - <b>Full Stack Web App (React, NodeJS, Django, PostgreSQL, CSS)</b>
-  - [Financial Dashboard](https://github.com/ArjunSr10/Full-Stack-Financial-Dashboard.git) 
+  - [Financial Dashboard](https://github.com/ArjunSr10/Full-Stack-Financial-Dashboard.git)
+  - [Cloud-Based Recipe Recommendation Platform](https://github.com/ArjunSr10/Cloud-Group-CW)
 - <b>Java</b>
   - [Ad-revenue dashboard analytics tool (group project)](https://github.com/ArjunSr10/Ad-revenue-dashboard.git)
   - [Tetris inspired game application](https://github.com/ArjunSr10/Tetris-inspired-game)
