@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>AI / Machine Learning (Python, PyTorch, CNNs, Transformers, Streamlit)</b>
+  - [Multimodal Satellite Image Segmentation for Disaster Analysis](https://github.com/ArjunSr10/3rd-Year-IP)
 - <b>Python</b>
   - [Chess Playing AI Program](https://github.com/ArjunSr10/Chess-Playing-AI-.git)
 - <b>Full Stack Web App (React, NodeJS, Django, PostgreSQL, CSS)</b>
